@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hola, soy Salomón Quiroz
 
-<!--
-**salomonquiroz-dev/Salomonquiroz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador enfocado en backend con Java  
+🚀 Apasionado por aprender nuevas tecnologías y resolver problemas  
 
-Here are some ideas to get you started:
+🛠️ Tecnologías
+- Java
+- SQL
+- JavaScript
+- Python (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Proyectos destacados
+
+🔹 Chat con Sockets en Java
+Aplicación de chat cliente-servidor en tiempo real utilizando sockets.
+
+ 🔹 Sistema con Base de Datos
+Aplicación con manejo de datos usando SQL (CRUD completo).
+
+ 🔹 Página Web
+Sitio web desarrollado con HTML, CSS y JavaScript.
+
+📫 Contacto
+- Correo: salomonqure5@gmail.com
+- Celular: 7491088446
+- Telefono: 7487662729
